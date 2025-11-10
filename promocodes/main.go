@@ -16,7 +16,7 @@ import (
 const (
 	defaultCount = 3
 	minWordLen   = 3
-	maxWordLen   = 15
+	maxWordLen   = 6
 	dictPath     = "/usr/share/dict/words"
 )
 
